@@ -34,5 +34,14 @@ Install Node.js
 Install Python
 Configure MongoDB
 
+**Known Limitations:**
+Simulated payment processing
+Basic form validation
+No real time booking updates
+No email service
+
+**Deployment URL:**
+To be updated
+
 **Version:**
 v1.0
