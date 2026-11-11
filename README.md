@@ -14,7 +14,7 @@ The Storage Unit Booking System enables customers to search storage units and bo
 
 **Technology stack:**
 1. Front end: Node.js
-2. Backend: Phyton
+2. Backend: Javascript
 3. Database:MongoDB
 4. Deployment: AWS EC2
 
